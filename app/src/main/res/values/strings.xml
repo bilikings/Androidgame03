@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">大数游戏</string>
+    <string name="tips">左边右边哪个大？</string>
+    <string name="score">你的分数:0</string>
+    <string name="scores">你的分数:</string>
+    <string name="error">Wrong!</string>
+    <string name="you_right">Congratulation!</string>
+</resources>
